@@ -45,7 +45,7 @@ Coffee Consiumption
 
 
 GDP Data
-![GDP Data](images/gdp_data.png)
+![GDP Data](images/gdp-data.png)
 
 
 Additional data files include Unemployment and an ISO Country Code to Country Name mapping.
