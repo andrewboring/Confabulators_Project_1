@@ -54,7 +54,7 @@ Additional data files include Unemployment and an ISO Country Code to Country Na
  - http://www.ico.org/new_historical.asp
 
 
-Limitations:
+## Limitations:
  - The ICO coffee consumption data is measured in terms of "disappearance". Disappearance is measured by adding gross imports, production, and existing inventories, and substracting exports and other non-consumptive use. The resulting "disappearance" is used as a proxy for consumption 
 
  - The disappearance data consists of western, industrialzed nations within the European Union, Unitied States, and select others such as Tunisia, Russian Federation, Japan, and Norway. The Data lacks information on nations within Asian or African geographic regions, and no developing nations.
