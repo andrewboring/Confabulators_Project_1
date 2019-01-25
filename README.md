@@ -11,7 +11,7 @@ Team Members:
 
 
 ## Hypothesis: 
-Does increased coffee consumption in a population correlate with increased productivity as measured in GDP per hour worked?
+Increased coffee consumption within a population correlates with increased productivity, as measured in GDP per capita.
 
 Null Hypothesis: There is no correlation between coffee consumption and success as measured above.
  
