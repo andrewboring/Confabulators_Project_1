@@ -36,7 +36,7 @@ In order to determine if the hypothesis is met or not, we will also need to esta
 
 
 ## Data:
-We have two primary data files, the coffee consumption and gdp.
+We have two primary data files, coffee consumption and gdp.
 
 Coffee Consiumption
 ![Coffee Consumption](images/coffee_data.png)
@@ -44,6 +44,9 @@ Coffee Consiumption
 
 GDP Data
 ![GDP Data](images/gdp_data.png)
+
+
+Additional data files include Human Development Index and an ISO Country Code to Country Name mapping.
 
 
 
