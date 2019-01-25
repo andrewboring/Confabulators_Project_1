@@ -1,5 +1,4 @@
-# The Confabulators
-## Team Project
+# The Confabulators ## Team Project
 
 Team Members:
  -Andrew Boring
@@ -36,10 +35,25 @@ In order to determine if the hypothesis is met or not, we will also need to esta
 
 
 
+## Data:
+We have two primary data files, the coffee consumption and gdp.
+
+Coffee Consiumption
+![Coffee Consumption](images/coffee_data.png)
+
+
+GDP Data
+![GDP Data](images/gdp_data.png)
+
+
+
 Limitations:
  -The ICO coffee consumption data is measured in terms of "disappearance". Disappearance is measured by adding gross imports, production, and existing inventories, and substracting exports and other non-consumptive use. The resulting "disappearance" is used as a proxy for consumption 
 
  -The disappearance data consists of western, industrialzed nations within the European Union, Unitied States, and select others such as Tunisia, Russian Federation, Japan, and Norway. The Data lacks information on nations within Asian or African geographic regions, and no developing nations.
 
+ - Disappearance data for most countries ends at 2014, though several continue through to 2017.
+
+ - GDP data was expressed in multiple currencies. Since we're looking for trends and correlations between GDP and consumption, and not specific dollar amounts, we ignored currency and currency calculations. Instead, we used the GDP value for each country as-is.
 
 
