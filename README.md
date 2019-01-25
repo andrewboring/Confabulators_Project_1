@@ -1,11 +1,12 @@
-# Confabulators_Project_1
+# The Confabulators
+## Team Project
 
 Team Members:
-*Andrew Boring
-*Michael Coates
-*Jin Kim
-*Karen Mosley
-*Srini Mudivarthy
+-Andrew Boring
+-Michael Coates
+-Jin Kim
+-Karen Mosley
+-Srini Mudivarthy
 
 
 ## Hypothesis: 
@@ -23,22 +24,22 @@ In this analysis, we use the data from the International Coffee Organization on 
 
 
 ### Preliminary Questions: 
-*What is the mean GDP (combined) for the selected nations over the time period?
-*What is the mean coffee consumption (combined) for the selected nations over the time period?
-*What is the mean GDP for individual nations over the time period? 
-*What is the mean coffee consumption for individual nations over the time period?
-*Is there a correlation with other indicators of productivity or success, such as the Human Development Index?
-*What is the standard deviation and something something statistical term something?
-*Is there a "rate of increase" that we can correlate?
+-What is the mean GDP (combined) for the selected nations over the time period?
+-What is the mean coffee consumption (combined) for the selected nations over the time period?
+-What is the mean GDP for individual nations over the time period? 
+-What is the mean coffee consumption for individual nations over the time period?
+-Is there a correlation with other indicators of productivity or success, such as the Human Development Index?
+-What is the standard deviation and something something statistical term something?
+-Is there a "rate of increase" that we can correlate?
 
 In order to determine if the hypothesis is met or not, we will also need to establish which populations did not experience similar increases in GDP output. 
 
 
 
 Limitations:
-*The ICO coffee consumption data is measured in terms of "disappearance". Disappearance is measured by adding gross imports, production, and existing inventories, and substracting exports and other non-consumptive use. The resulting "disappearance" is used as a proxy for consumption 
+-The ICO coffee consumption data is measured in terms of "disappearance". Disappearance is measured by adding gross imports, production, and existing inventories, and substracting exports and other non-consumptive use. The resulting "disappearance" is used as a proxy for consumption 
 
-*The disappearance data consists of western, industrialzed nations within the European Union, Unitied States, and select others such as Tunisia, Russian Federation, Japan, and Norway. The Data lacks information on nations within Asian or African geographic regions, and no developing nations.
+-The disappearance data consists of western, industrialzed nations within the European Union, Unitied States, and select others such as Tunisia, Russian Federation, Japan, and Norway. The Data lacks information on nations within Asian or African geographic regions, and no developing nations.
 
 
 
