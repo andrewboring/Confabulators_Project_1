@@ -1,4 +1,5 @@
-# The Confabulators ## Team Project
+# The Confabulators 
+## Team Project
 
 Team Members:
  - Andrew Boring
