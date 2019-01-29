@@ -1,4 +1,4 @@
-Country Name,Year,Coffee Consumed,MEASURE,gdp_per_hour_worked ($), gdp_for_year ($) ,gdp_per_capita ($),population,Unemployed (%)
+Country Name,Year,Coffee Consumed,MEASURE,gdp_per_hour_worked, gdp_for_year,gdp_per_capita,population,Unemployed (%)
 Austria,1999,1123,USD,43.67,217185787343,28722,7561609,3.7
 Austria,2000,875,USD,44.71,196799778883,25922,7592073,3.5
 Austria,2001,1013,USD,45.28,197337879195,25848,7634560,3.6
