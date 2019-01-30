@@ -1,0 +1,601 @@
+,Country Name,Year,Value
+0,Austria,1990,"1,340"
+1,Bulgaria,1990,102
+2,Cyprus,1990,31
+3,Czech Republic,1990,659
+4,Denmark,1990,865
+5,Finland,1990,"1,070"
+6,France,1990,"5,205"
+7,Germany,1990,"7,279"
+8,Greece,1990,631
+9,Hungary,1990,574
+10,Ireland,1990,120
+11,Italy,1990,"4,832"
+12,Malta,1990,20
+13,Netherlands,1990,"2,383"
+14,Poland,1990,335
+15,Portugal,1990,467
+16,Romania,1990,442
+17,Spain,1990,"2,714"
+18,Sweden,1990,"1,689"
+19,United Kingdom,1990,"2,348"
+20,Japan,1990,"5,060"
+21,Norway,1990,727
+22,Switzerland,1990,907
+23,Tunisia,1990,101
+24,United States of America,1990,"18,298"
+25,Austria,1991,"1,302"
+26,Bulgaria,1991,17
+27,Cyprus,1991,45
+28,Czech Republic,1991,525
+29,Denmark,1991,909
+30,Finland,1991,966
+31,France,1991,"5,557"
+32,Germany,1991,"12,377"
+33,Greece,1991,387
+34,Hungary,1991,380
+35,Ireland,1991,113
+36,Italy,1991,"4,254"
+37,Malta,1991,13
+38,Netherlands,1991,"2,488"
+39,Poland,1991,243
+40,Portugal,1991,448
+41,Romania,1991,335
+42,Spain,1991,"2,651"
+43,Sweden,1991,"1,604"
+44,United Kingdom,1991,"2,342"
+45,Japan,1991,"5,809"
+46,Norway,1991,758
+47,Switzerland,1991,949
+48,Tunisia,1991,90
+49,United States of America,1991,"18,661"
+50,Austria,1992,"1,212"
+51,Bulgaria,1992,175
+52,Cyprus,1992,39
+53,Czech Republic,1992,472
+54,Denmark,1992,959
+55,Finland,1992,"1,030"
+56,France,1992,"5,614"
+57,Germany,1992,"9,570"
+58,Greece,1992,320
+59,Hungary,1992,348
+60,Ireland,1992,91
+61,Italy,1992,"4,132"
+62,Malta,1992,16
+63,Netherlands,1992,"3,261"
+64,Poland,1992,"1,650"
+65,Portugal,1992,573
+66,Romania,1992,601
+67,Spain,1992,"3,045"
+68,Sweden,1992,"1,634"
+69,United Kingdom,1992,"2,516"
+70,Japan,1992,"5,132"
+71,Norway,1992,736
+72,Switzerland,1992,995
+73,Tunisia,1992,111
+74,United States of America,1992,"18,290"
+75,Austria,1993,"1,335"
+76,Bulgaria,1993,327
+77,Cyprus,1993,78
+78,Czech Republic,1993,448
+79,Denmark,1993,891
+80,Finland,1993,"1,129"
+81,France,1993,"5,507"
+82,Germany,1993,"11,325"
+83,Greece,1993,148
+84,Hungary,1993,557
+85,Ireland,1993,107
+86,Italy,1993,"4,888"
+87,Malta,1993,22
+88,Netherlands,1993,"2,719"
+89,Poland,1993,"1,545"
+90,Portugal,1993,529
+91,Romania,1993,420
+92,Spain,1993,"2,728"
+93,Sweden,1993,"1,618"
+94,United Kingdom,1993,"2,534"
+95,Japan,1993,"5,740"
+96,Norway,1993,690
+97,Switzerland,1993,869
+98,Tunisia,1993,101
+99,United States of America,1993,"19,217"
+100,Austria,1994,"1,086"
+101,Bulgaria,1994,353
+102,Cyprus,1994,45
+103,Czech Republic,1994,509
+104,Denmark,1994,908
+105,Finland,1994,"1,050"
+106,France,1994,"5,111"
+107,Germany,1994,"8,214"
+108,Greece,1994,356
+109,Hungary,1994,724
+110,Ireland,1994,127
+111,Italy,1994,"4,774"
+112,Malta,1994,12
+113,Netherlands,1994,"2,122"
+114,Poland,1994,"1,742"
+115,Portugal,1994,673
+116,Romania,1994,347
+117,Spain,1994,"2,774"
+118,Sweden,1994,"1,669"
+119,United Kingdom,1994,"2,640"
+120,Japan,1994,"5,973"
+121,Norway,1994,800
+122,Switzerland,1994,944
+123,Tunisia,1994,137
+124,United States of America,1994,"17,326"
+125,Austria,1995,"1,012"
+126,Bulgaria,1995,393
+127,Cyprus,1995,43
+128,Czech Republic,1995,511
+129,Denmark,1995,758
+130,Finland,1995,735
+131,France,1995,"5,313"
+132,Germany,1995,"11,231"
+133,Greece,1995,383
+134,Hungary,1995,447
+135,Ireland,1995,107
+136,Italy,1995,"4,644"
+137,Malta,1995,21
+138,Netherlands,1995,"2,293"
+139,Poland,1995,"1,637"
+140,Portugal,1995,632
+141,Romania,1995,550
+142,Spain,1995,"2,732"
+143,Sweden,1995,"1,204"
+144,United Kingdom,1995,"2,200"
+145,Japan,1995,"6,116"
+146,Norway,1995,657
+147,Switzerland,1995,935
+148,Tunisia,1995,137
+149,United States of America,1995,"17,363"
+150,Austria,1996,"1,076"
+151,Bulgaria,1996,246
+152,Cyprus,1996,52
+153,Czech Republic,1996,475
+154,Denmark,1996,895
+155,Finland,1996,901
+156,France,1996,"5,512"
+157,Germany,1996,"10,594"
+158,Greece,1996,715
+159,Hungary,1996,571
+160,Ireland,1996,87
+161,Italy,1996,"4,776"
+162,Malta,1996,9
+163,Netherlands,1996,"2,509"
+164,Poland,1996,"1,755"
+165,Portugal,1996,615
+166,Romania,1996,696
+167,Spain,1996,"2,901"
+168,Sweden,1996,"1,298"
+169,United Kingdom,1996,"2,406"
+170,Japan,1996,"5,838"
+171,Norway,1996,713
+172,Switzerland,1996,922
+173,Tunisia,1996,144
+174,United States of America,1996,"18,059"
+175,Austria,1997,"1,087"
+176,Bulgaria,1997,275
+177,Cyprus,1997,46
+178,Czech Republic,1997,485
+179,Denmark,1997,808
+180,Finland,1997,939
+181,France,1997,"5,487"
+182,Germany,1997,"9,670"
+183,Greece,1997,739
+184,Hungary,1997,602
+185,Ireland,1997,97
+186,Italy,1997,"4,913"
+187,Malta,1997,9
+188,Netherlands,1997,"2,367"
+189,Poland,1997,"1,966"
+190,Portugal,1997,603
+191,Romania,1997,630
+192,Spain,1997,"2,977"
+193,Sweden,1997,"1,241"
+194,United Kingdom,1997,"2,441"
+195,Japan,1997,"5,968"
+196,Norway,1997,675
+197,Switzerland,1997,712
+198,Tunisia,1997,165
+199,United States of America,1997,"17,795"
+200,Austria,1998,"1,105"
+201,Bulgaria,1998,324
+202,Cyprus,1998,46
+203,Czech Republic,1998,523
+204,Denmark,1998,854
+205,Finland,1998,"1,001"
+206,France,1998,"5,351"
+207,Germany,1998,"9,976"
+208,Greece,1998,668
+209,Hungary,1998,652
+210,Ireland,1998,92
+211,Italy,1998,"4,936"
+212,Malta,1998,7
+213,Netherlands,1998,"1,961"
+214,Poland,1998,"1,965"
+215,Portugal,1998,696
+216,Romania,1998,584
+217,Spain,1998,"2,996"
+218,Sweden,1998,"1,248"
+219,United Kingdom,1998,"2,588"
+220,Japan,1998,"6,052"
+221,Norway,1998,702
+222,Switzerland,1998,811
+223,Tunisia,1998,147
+224,United States of America,1998,"18,604"
+225,Austria,1999,"1,123"
+226,Bulgaria,1999,363
+227,Cyprus,1999,54
+228,Czech Republic,1999,558
+229,Denmark,1999,869
+230,Finland,1999,979
+231,France,1999,"5,578"
+232,Germany,1999,"9,748"
+233,Greece,1999,641
+234,Hungary,1999,657
+235,Ireland,1999,135
+236,Italy,1999,"4,919"
+237,Malta,1999,9
+238,Netherlands,1999,"1,471"
+239,Poland,1999,"1,985"
+240,Portugal,1999,737
+241,Romania,1999,507
+242,Spain,1999,"3,324"
+243,Sweden,1999,"1,279"
+244,United Kingdom,1999,"2,276"
+245,Japan,1999,"6,273"
+246,Norway,1999,785
+247,Switzerland,1999,863
+248,Tunisia,1999,185
+249,United States of America,1999,"19,359"
+250,Austria,2000,875
+251,Bulgaria,2000,275
+252,Cyprus,2000,67
+253,Czech Republic,2000,560
+254,Denmark,2000,791
+255,Finland,2000,967
+256,France,2000,"5,402"
+257,Germany,2000,"8,770"
+258,Greece,2000,687
+259,Hungary,2000,633
+260,Ireland,2000,83
+261,Italy,2000,"5,149"
+262,Malta,2000,9
+263,Netherlands,2000,"1,860"
+264,Poland,2000,"2,046"
+265,Portugal,2000,646
+266,Romania,2000,551
+267,Spain,2000,"2,991"
+268,Sweden,2000,"1,173"
+269,United Kingdom,2000,"2,342"
+270,Japan,2000,"6,626"
+271,Norway,2000,657
+272,Switzerland,2000,827
+273,Tunisia,2000,192
+274,United States of America,2000,"18,746"
+275,Austria,2001,"1,013"
+276,Bulgaria,2001,350
+277,Cyprus,2001,53
+278,Czech Republic,2001,633
+279,Denmark,2001,868
+280,Finland,2001,947
+281,France,2001,"5,253"
+282,Germany,2001,"9,059"
+283,Greece,2001,548
+284,Hungary,2001,647
+285,Ireland,2001,146
+286,Italy,2001,"5,243"
+287,Malta,2001,9
+288,Netherlands,2001,"1,677"
+289,Poland,2001,"2,222"
+290,Portugal,2001,745
+291,Romania,2001,633
+292,Spain,2001,"2,795"
+293,Sweden,2001,"1,251"
+294,United Kingdom,2001,"2,215"
+295,Japan,2001,"6,936"
+296,Norway,2001,710
+297,Switzerland,2001,816
+298,Tunisia,2001,232
+299,United States of America,2001,"19,554"
+300,Austria,2002,926
+301,Bulgaria,2002,341
+302,Cyprus,2002,51
+303,Czech Republic,2002,642
+304,Denmark,2002,805
+305,Finland,2002,970
+306,France,2002,"5,526"
+307,Germany,2002,"8,498"
+308,Greece,2002,827
+309,Hungary,2002,637
+310,Ireland,2002,136
+311,Italy,2002,"5,182"
+312,Malta,2002,9
+313,Netherlands,2002,"1,574"
+314,Poland,2002,"2,201"
+315,Portugal,2002,720
+316,Romania,2002,738
+317,Spain,2002,"2,833"
+318,Sweden,2002,"1,224"
+319,United Kingdom,2002,"2,261"
+320,Japan,2002,"6,875"
+321,Norway,2002,692
+322,Switzerland,2002,821
+323,Tunisia,2002,234
+324,United States of America,2002,"19,125"
+325,Austria,2003,720
+326,Bulgaria,2003,397
+327,Cyprus,2003,53
+328,Czech Republic,2003,623
+329,Denmark,2003,724
+330,Finland,2003,966
+331,France,2003,"5,394"
+332,Germany,2003,"9,499"
+333,Greece,2003,929
+334,Hungary,2003,646
+335,Ireland,2003,151
+336,Italy,2003,"5,507"
+337,Malta,2003,11
+338,Netherlands,2003,"1,743"
+339,Poland,2003,"2,242"
+340,Portugal,2003,657
+341,Romania,2003,755
+342,Spain,2003,"2,740"
+343,Sweden,2003,"1,178"
+344,United Kingdom,2003,"2,236"
+345,Japan,2003,"6,770"
+346,Norway,2003,683
+347,Switzerland,2003,852
+348,Tunisia,2003,120
+349,United States of America,2003,"20,193"
+350,Austria,2004,996
+351,Bulgaria,2004,364
+352,Cyprus,2004,60
+353,Czech Republic,2004,605
+354,Denmark,2004,849
+355,Finland,2004,"1,034"
+356,France,2004,"4,929"
+357,Germany,2004,"10,445"
+358,Greece,2004,871
+359,Hungary,2004,708
+360,Ireland,2004,225
+361,Italy,2004,"5,469"
+362,Malta,2004,16
+363,Netherlands,2004,"1,978"
+364,Poland,2004,"2,281"
+365,Portugal,2004,763
+366,Romania,2004,818
+367,Spain,2004,"2,705"
+368,Sweden,2004,"1,234"
+369,United Kingdom,2004,"2,458"
+370,Japan,2004,"7,117"
+371,Norway,2004,709
+372,Switzerland,2004,722
+373,Tunisia,2004,263
+374,United States of America,2004,"20,973"
+375,Austria,2005,772
+376,Bulgaria,2005,430
+377,Cyprus,2005,70
+378,Czech Republic,2005,656
+379,Denmark,2005,795
+380,Finland,2005,"1,102"
+381,France,2005,"4,787"
+382,Germany,2005,"8,665"
+383,Greece,2005,870
+384,Hungary,2005,570
+385,Ireland,2005,223
+386,Italy,2005,"5,552"
+387,Malta,2005,16
+388,Netherlands,2005,"1,927"
+389,Poland,2005,"2,267"
+390,Portugal,2005,744
+391,Romania,2005,857
+392,Spain,2005,"3,007"
+393,Sweden,2005,"1,170"
+394,United Kingdom,2005,"2,680"
+395,Japan,2005,"7,128"
+396,Norway,2005,743
+397,Switzerland,2005,"1,099"
+398,Tunisia,2005,190
+399,United States of America,2005,"20,998"
+400,Austria,2006,612
+401,Bulgaria,2006,420
+402,Cyprus,2006,55
+403,Czech Republic,2006,631
+404,Denmark,2006,822
+405,Finland,2006,"1,047"
+406,France,2006,"5,278"
+407,Germany,2006,"9,151"
+408,Greece,2006,857
+409,Hungary,2006,598
+410,Ireland,2006,203
+411,Italy,2006,"5,593"
+412,Malta,2006,29
+413,Netherlands,2006,"2,129"
+414,Poland,2006,"1,993"
+415,Portugal,2006,768
+416,Romania,2006,835
+417,Spain,2006,"3,017"
+418,Sweden,2006,"1,315"
+419,United Kingdom,2006,"3,059"
+420,Japan,2006,"7,268"
+421,Norway,2006,721
+422,Switzerland,2006,932
+423,Tunisia,2006,200
+424,United States of America,2006,"20,667"
+425,Austria,2007,847
+426,Bulgaria,2007,364
+427,Cyprus,2007,69
+428,Czech Republic,2007,679
+429,Denmark,2007,794
+430,Finland,2007,"1,057"
+431,France,2007,"5,628"
+432,Germany,2007,"8,627"
+433,Greece,2007,"1,015"
+434,Hungary,2007,522
+435,Ireland,2007,244
+436,Italy,2007,"5,821"
+437,Malta,2007,16
+438,Netherlands,2007,"2,292"
+439,Poland,2007,"1,554"
+440,Portugal,2007,769
+441,Romania,2007,824
+442,Spain,2007,"3,198"
+443,Sweden,2007,"1,244"
+444,United Kingdom,2007,"2,824"
+445,Japan,2007,"7,282"
+446,Norway,2007,771
+447,Switzerland,2007,989
+448,Tunisia,2007,253
+449,United States of America,2007,"21,033"
+450,Austria,2008,908
+451,Bulgaria,2008,445
+452,Cyprus,2008,77
+453,Czech Republic,2008,621
+454,Denmark,2008,688
+455,Finland,2008,"1,115"
+456,France,2008,"5,152"
+457,Germany,2008,"9,535"
+458,Greece,2008,978
+459,Hungary,2008,494
+460,Ireland,2008,115
+461,Italy,2008,"5,892"
+462,Malta,2008,23
+463,Netherlands,2008,"1,324"
+464,Poland,2008,"1,681"
+465,Portugal,2008,747
+466,Romania,2008,807
+467,Spain,2008,"3,485"
+468,Sweden,2008,"1,272"
+469,United Kingdom,2008,"3,067"
+470,Japan,2008,"7,065"
+471,Norway,2008,715
+472,Switzerland,2008,"1,149"
+473,Tunisia,2008,317
+474,United States of America,2008,"21,652"
+475,Austria,2009,886
+476,Bulgaria,2009,409
+477,Cyprus,2009,75
+478,Czech Republic,2009,525
+479,Denmark,2009,676
+480,Finland,2009,"1,058"
+481,France,2009,"5,677"
+482,Germany,2009,"8,897"
+483,Greece,2009,974
+484,Hungary,2009,445
+485,Ireland,2009,134
+486,Italy,2009,"5,806"
+487,Malta,2009,14
+488,Netherlands,2009,898
+489,Poland,2009,"2,001"
+490,Portugal,2009,731
+491,Romania,2009,775
+492,Spain,2009,"3,352"
+493,Sweden,2009,"1,133"
+494,United Kingdom,2009,"3,220"
+495,Japan,2009,"7,130"
+496,Norway,2009,715
+497,Switzerland,2009,966
+498,Tunisia,2009,289
+499,United States of America,2009,"21,436"
+500,Austria,2010,903
+501,Bulgaria,2010,395
+502,Cyprus,2010,74
+503,Czech Republic,2010,470
+504,Denmark,2010,806
+505,Finland,2010,"1,080"
+506,France,2010,"5,713"
+507,Germany,2010,"9,292"
+508,Greece,2010,994
+509,Hungary,2010,376
+510,Ireland,2010,160
+511,Italy,2010,"5,781"
+512,Malta,2010,12
+513,Netherlands,2010,"1,347"
+514,Poland,2010,"2,156"
+515,Portugal,2010,812
+516,Romania,2010,796
+517,Spain,2010,"3,232"
+518,Sweden,2010,"1,221"
+519,United Kingdom,2010,"3,134"
+520,Japan,2010,"7,192"
+521,Norway,2010,746
+522,Switzerland,2010,"1,012"
+523,Tunisia,2010,301
+524,United States of America,2010,"21,783"
+525,Austria,2011,"1,117"
+526,Bulgaria,2011,360
+527,Cyprus,2011,81
+528,Czech Republic,2011,572
+529,Denmark,2011,762
+530,Finland,2011,"1,093"
+531,France,2011,"5,962"
+532,Germany,2011,"9,460"
+533,Greece,2011,"1,023"
+534,Hungary,2011,180
+535,Ireland,2011,179
+536,Italy,2011,"5,689"
+537,Malta,2011,16
+538,Netherlands,2011,909
+539,Poland,2011,"2,034"
+540,Portugal,2011,859
+541,Romania,2011,802
+542,Spain,2011,"3,149"
+543,Sweden,2011,"1,125"
+544,United Kingdom,2011,"2,925"
+545,Japan,2011,"7,015"
+546,Norway,2011,785
+547,Switzerland,2011,"1,035"
+548,Tunisia,2011,415
+549,United States of America,2011,"22,044"
+550,Austria,2012,"1,269"
+551,Bulgaria,2012,376
+552,Cyprus,2012,85
+553,Czech Republic,2012,685
+554,Denmark,2012,800
+555,Finland,2012,"1,082"
+556,France,2012,"5,790"
+557,Germany,2012,"8,830"
+558,Greece,2012,"1,076"
+559,Hungary,2012,252
+560,Ireland,2012,214
+561,Italy,2012,"5,710"
+562,Malta,2012,21
+563,Netherlands,2012,"1,382"
+564,Poland,2012,"1,936"
+565,Portugal,2012,828
+566,Romania,2012,849
+567,Spain,2012,"3,435"
+568,Sweden,2012,"1,159"
+569,United Kingdom,2012,"2,926"
+570,Japan,2012,"7,131"
+571,Norway,2012,723
+572,Switzerland,2012,"1,047"
+573,Tunisia,2012,421
+574,United States of America,2012,"22,232"
+575,Austria,2013,"1,249"
+576,Bulgaria,2013,419
+577,Cyprus,2013,89
+578,Czech Republic,2013,637
+579,Denmark,2013,822
+580,Finland,2013,"1,095"
+581,France,2013,"5,707"
+582,Germany,2013,"9,378"
+583,Greece,2013,"1,101"
+584,Hungary,2013,177
+585,Ireland,2013,196
+586,Italy,2013,"5,634"
+587,Malta,2013,22
+588,Netherlands,2013,"1,625"
+589,Poland,2013,"1,669"
+590,Portugal,2013,840
+591,Romania,2013,891
+592,Spain,2013,"3,234"
+593,Sweden,2013,"1,175"
+594,United Kingdom,2013,"2,828"
+595,Japan,2013,"7,435"
+596,Norway,2013,763
+597,Switzerland,2013,"1,123"
+598,Tunisia,2013,429
+599,United States of America,2013,"23,417"
