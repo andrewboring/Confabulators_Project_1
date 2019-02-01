@@ -4,7 +4,7 @@
 
 Team Members:
  - Andrew Boring
- - Michael Coates
+ - Michael Coats
  - Jin Kim
  - Karen Mosley
  - Srini Mudivarthy
