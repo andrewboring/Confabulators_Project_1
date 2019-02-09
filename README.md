@@ -11,9 +11,9 @@ Team Members:
 
 
 ## Hypothesis: 
-Increased coffee consumption within a population correlates with increased productivity, as measured in GDP per capita.
+Increased coffee consumption within a population correlates with increased productivity, as measured in GDP per hour worked.
 
-Null Hypothesis: There is no correlation between coffee consumption and success as measured above.
+Null Hypothesis: There is no correlation between coffee consumption and productivity as measured above.
  
 
 ## Abstract: 
@@ -25,33 +25,29 @@ In this analysis, we will use the data from the International Coffee Organizatio
 
 
 ### Preliminary Questions: 
- - What is the mean GDP (combined) for the selected nations over the time period?
- - What is the mean coffee consumption (combined) for the selected nations over the time period?
- - What is the mean GDP for individual nations over the time period? 
- - What is the mean coffee consumption for individual nations over the time period?
- - Is there a correlation with other indicators of productivity or success, such as the unemployment?
+ - What is the coffee consumption trend for the selected nations over the time period?
+ - What is the productivity trend for the selected nations over the time period?
+ - Which countries drink most coffee? 
+ - Which countries show higher productivity compared to other countries?
+ - Is there a correlation coffee consumption and productivity?
  - Is there a "rate of increase" that we can correlate?
-
-In order to determine if the hypothesis is met or not, we will also need to establish which populations did not experience similar increases in GDP output. 
-
 
 
 ## Data:
-We have two primary data files, coffee consumption and gdp.
+We have two primary data files, coffee consumption and productivity.
 
 Coffee Consumption
 ![Coffee Consumption](images/coffee_data.png)
 
 
-GDP Data
+Productivity Data
 ![GDP Data](images/gdp-data.png)
 
 
-Additional data files include Unemployment and an ISO Country Code to Country Name mapping.
 
 ## Data Sources:
  - International Coffee Organization: http://www.ico.org/new_historical.asp
-
+ - OECD: https://data.oecd.org/lprdty/gdp-per-hour-worked.htm
 
 ## Limitations:
  - The ICO coffee consumption data is measured in terms of "disappearance". Disappearance is measured by adding gross imports, production, and existing inventories, and subtracting exports and other non-consumptive use. The resulting "disappearance" is used as a proxy for consumption 
