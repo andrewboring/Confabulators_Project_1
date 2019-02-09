@@ -41,7 +41,7 @@ Coffee Consumption
 
 
 Productivity Data
-![GDP Data](images/gdp-data.png)
+[GDP Data](images/gdp-data.png)
 
 
 
